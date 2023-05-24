@@ -1,0 +1,2 @@
+(Dime | Dame) un numero (aleatorio | ) ((desde | entre) {from} (hasta | y) {to} | )
+(Dime | Dame) un numero (aleatorio | ) (mayor que {from} | menor que {to})
